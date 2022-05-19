@@ -20,7 +20,7 @@ body{
     
 }
 .image1{
-    background-image: url(../img/bg.jpg);
+    background-image: url(./img/bg.jpg);
     
     
 }
@@ -52,7 +52,7 @@ h1{
     line-height: 80px;
 }
 .image2{
-    background-image: url(../img/bg2.jpg);
+    background-image: url(./img/bg2.jpg);
 }
 .full-stack{
     background-color:rgb(241, 241, 241); 
@@ -80,7 +80,7 @@ h1{
     align-items: center;
 }
 .image3{
-    background-image: url(../img/bg3.jpg);
+    background-image: url(./img/bg3.jpg);
 }
 .aws-solution{
     background-color: #282e34;
@@ -133,7 +133,7 @@ h1{
     width: 100%;
 }
 .image3{
-    background-image: url(../img/bg4.jpg);
+    background-image: url(./img/bg4.jpg);
 }
 .outside-3{
     width: 470px;
@@ -194,7 +194,7 @@ h1{
     font-style: normal;
 }
 .image4{
-    background-image: url(../img/bg.jpg);
+    background-image: url(./img/bg.jpg);
 }
 .outside-4{
     width: 700px;
